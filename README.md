@@ -6,3 +6,7 @@ This is the last version of the library, v. 3.0.2 taken from: https://www2.math.
 ## Note
 
 filib++ uses GNU autoconf now. Please read the [INSTALL](INSTALL) file.
+
+## Why
+
+Uploaded for storage and further study.
